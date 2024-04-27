@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikolay Gorichev</h1>
 <h3 align="center">A frontend developer</h3>
 
- <img align="right" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="nikogorichev" /> 
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikogorichev&label=Profile%20views&color=0e75b6&style=flat" alt="nikogorichev" /> </p>
 
