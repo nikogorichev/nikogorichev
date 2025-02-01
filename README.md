@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikogorichev&label=Profile%20views&color=0e75b6&style=flat" alt="nikogorichev" /> </p>
 
-- 🌱 I’m currently learning **Swift**
-
 - 📫 How to reach me **nikogorichev812@gmail.com**
 
 
